@@ -1,0 +1,11 @@
+# Build output
+/target
+
+# Rust formatter backups
+**/*.rs.bk
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+.DS_Store
